@@ -1,4 +1,4 @@
-### **Aether Cloud Gaming Project Overview**
+# **Aether Cloud Gaming**
 
 **Aether Cloud Gaming** is a cutting-edge, open-source cloud gaming platform designed to provide seamless and high-performance gaming experiences over the internet. Powered by the latest cloud technologies, Aether Cloud Gaming allows users to stream their favorite games from virtually any device without the need for high-end hardware. The platform is designed to run on your own infrastructure or on a public cloud, offering flexibility, scalability, and customization.
 
