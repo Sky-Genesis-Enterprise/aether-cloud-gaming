@@ -1,7 +1,12 @@
 {
   "name": "aether-cloud-gaming",
   "version": "1.0.0",
-  "description": "",
+  "private": true,
+  "type": "module",
+  "author": "Sky Genesis Enterprise",
+  "license": "AGPL-3.0",
+  "description": "Aether Cloud Gaming is a cloud gaming platform that allows users to play games on any device with a web browser. It is built using modern web technologies and provides a seamless gaming experience.",
+  "email": "contact@skygenesisenterprise.com",
   "main": "postcss.config.js",
   "scripts": {
     "dev": "vite --host 0.0.0.0",
@@ -36,8 +41,6 @@
     "url": "git+https://github.com/Sky-Genesis-Enterprise/aether-cloud-gaming.git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
   "bugs": {
     "url": "https://github.com/Sky-Genesis-Enterprise/aether-cloud-gaming/issues"
   },
